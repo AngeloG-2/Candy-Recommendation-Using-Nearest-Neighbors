@@ -1,6 +1,8 @@
 # Candy-Recommendation-Using-Nearest-Neighbors
 Unsupervised Machine Learning: What Candy do you Fancy Today? 
 
+![EXAMPLE OUPUT](/images/example_output.png)
+
 Introduction
 ------------------------------
 Lets say you desire a candy that's chocolaty, contained almonds, and had caramel. Furthermore, lets say you had to choose from 100 different candies. It would be tedious and time-consuming to sort through each one.
