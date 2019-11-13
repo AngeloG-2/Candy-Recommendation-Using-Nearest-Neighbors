@@ -17,7 +17,7 @@ The Dataset is obtained from: https://www.kaggle.com/fivethirtyeight/the-ultimat
 
 FEATURES:
 
-chocolate: Does it contain chocolate?
+*chocolate: Does it contain chocolate?
 fruity: Is it fruit flavored?
 caramel: Is there caramel in the candy?
 peanutalmondy: Does it contain peanuts, peanut butter or almonds?
