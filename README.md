@@ -15,26 +15,22 @@ The Dataset
 -----------------------------
 The Dataset is obtained from: https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking
 
+FEATURES:
 
+chocolate: Does it contain chocolate?
+fruity: Is it fruit flavored?
+caramel: Is there caramel in the candy?
+peanutalmondy: Does it contain peanuts, peanut butter or almonds?
+nougat: Does it contain nougat?
+crispedricewafer: Does it contain crisped rice, wafers, or a cookie component?
+hard: Is it a hard candy?
+bar: Is it a candy bar?
+pluribus: Is it one of many candies in a bag or box?
+sugarpercent: The percentile of sugar it falls under within the data set.
+pricepercent: The unit price percentile compared to the rest of the set.
+winpercent: The overall win percentage according to 269,000 matchups.
 
-Features and Training Data
-------------------------------
-
-
-
-
-
-HOW TO IMPORVE THE MODEL
------------------------------
-Only take points with a certain radius 
-
-
-
-candies as eithier 1 (True) or 0 (False). For example,
-
-perform a nearest neighbor search 
-
-
+The project uses all the features except for the final 3.
 
 
 
