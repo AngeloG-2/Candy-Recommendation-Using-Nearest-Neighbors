@@ -1,7 +1,7 @@
 # Candy-Recommendation-Using-Nearest-Neighbors
 Unsupervised Machine Learning: What Candy do you Fancy Today? 
 
-![Example Output](example_output.png)
+![Example Output](example_output.PNG)
 
 
 Introduction
