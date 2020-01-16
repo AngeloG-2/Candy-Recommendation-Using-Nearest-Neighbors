@@ -18,6 +18,8 @@ The Dataset
 -----------------------------
 The Dataset is obtained from: https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking
 
+The project uses all the features except for the final 3.
+
 FEATURES:
 
 chocolate: Does it contain chocolate?
@@ -44,7 +46,6 @@ pricepercent: The unit price percentile compared to the rest of the set.
 
 winpercent: The overall win percentage according to 269,000 matchups.
 
-The project uses all the features except for the final 3.
 
 
 
